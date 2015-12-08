@@ -41,7 +41,7 @@ body{
 
 /* id elements */
 
-#header{
+.header{
 	width: 100%;
 	height: 125px;
 	margin-bottom: 10px;
@@ -50,7 +50,7 @@ body{
     background-size: 100%;
 }
 
-#logo{
+.logo{
 	background-image: url('../images/logo/logo.png');
 	background-repeat: no-repeat;
 	height: 110px;
@@ -58,7 +58,7 @@ body{
     float: left;
 }
 
-#cart{
+.cart{
     background-image: url('../images/winkelwagen.png');
     background-repeat: no-repeat;
     width: 10%;
@@ -69,47 +69,46 @@ body{
     margin-right: 75px;
 }
 
-#cart:hover{
+.cart:hover{
     background-image: url('../images/winkelwagen_red.png');
 }
 
-#content_wrapper{
+.content_wrapper{
 	width: 100%;
 	margin-top: 0px;
 }
 
-#footer{
+.footer{
 	clear: both;
-	background-color: #C71610;
+	background-color: red;
 
 }
 
-#footer table{
+.footer table{
     margin-left: auto;
     margin-right: auto;
 }
 
-#wrapper{
+.wrapper{
     margin: 3%;
 }
 
-#footer td{
+.footer td{
     padding-left: 25px;
     text-align: left;
-    color: #FFF7F7;
 }
 
-#content{
+.content{
 	width: 80%;
 	float: left;
 }
 
-#offers{
+.offers{
 	width: 100%;
 	height: 250px;
 }
 
-#offers h1{
+.offers h1{
 	z-index: 999;
 	top: 87px;
 	left: -75px;
@@ -122,7 +121,7 @@ body{
     text-shadow: 0px 0px 10px #FFBA02;
 }
 
-#offers img{
+.offers img{
 	height: 60%;
 	width: 60%;
 	display: block;
@@ -130,19 +129,19 @@ body{
 }
 
 
-#homemessage{
+.homemessage{
 	width: 86%;
 	float:left;
 	margin-right: 1%;
 }
 
-#contact{
+.contact{
 	width: 13%;
 	float: left;
 
 }
 
-#contact ul li{
+.contact ul li{
 	list-style-type: none;
 	margin-top: 3px;
 }
