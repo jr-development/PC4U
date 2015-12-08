@@ -80,7 +80,7 @@ body{
 
 #footer{
 	clear: both;
-	background-color: red;
+	background-color: #C71610;
 
 }
 
@@ -96,6 +96,7 @@ body{
 #footer td{
     padding-left: 25px;
     text-align: left;
+    color: #FFF7F7;
 }
 
 #content{
