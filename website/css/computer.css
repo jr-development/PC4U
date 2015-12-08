@@ -91,7 +91,7 @@ body{
 
 .wrapper{
     margin: 3%;
-    min-width: 1300px;
+    min-width: 1500px;
 }
 
 .footer td{
@@ -103,6 +103,7 @@ body{
 .content{
 	width: 80%;
 	float: left;
+    margin: 0px;
 }
 
 /* begin main-menu */
@@ -209,3 +210,35 @@ body{
 
 
 /* page elements */
+.center{
+    text-align: center;
+}
+
+.products{
+    
+    margin-left: 0px;
+    min-width: 1300px;
+}
+
+.sh_product{
+    float: left;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+
+.sh_options a{
+    color: #FFBA02;
+}
+
+.sh_options a:hover{
+    color: #C71610;
+}
+
+.sh_options .numberic{
+    width: 83px;
+}
+
+.sh_options .button{
+    width: 100px;
+}
