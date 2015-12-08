@@ -206,3 +206,40 @@ body{
 
 
 /* page elements */
+.center{
+    text-align: center;
+}
+
+.products{
+}
+
+.sh_product{
+    float: left;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
+.sh_product img{
+
+}
+
+.sh_options{
+
+}
+
+.sh_options a{
+    color: #FFBA02;
+}
+
+.sh_options a:hover{
+    color: #C71610;
+}
+
+.sh_options .numberic{
+    width: 83px;
+}
+
+.sh_options .button{
+    width: 100px;
+}
