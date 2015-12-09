@@ -227,7 +227,9 @@ body{
 
 .contactform{
     width: 36%;
+    min-height: 500px;
     float: left;
+    border-left: 1px solid black;
 }
 
 .contactform h1{
