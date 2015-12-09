@@ -16,7 +16,7 @@
 }
 
 /* elements */
-p, li, td {
+p, li, td, textarea, input, button {
 	font-family: 'Minion Pro';
     font-size: 18px;
 }
