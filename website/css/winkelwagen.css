@@ -245,3 +245,8 @@ button:active{
 button{
     float:right;
 }
+
+h1{ 
+text-align: center;
+margin-bottom: 10px;
+}
