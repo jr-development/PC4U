@@ -16,8 +16,9 @@
 }
 
 /* elements */
-p{
-	font-family: 'Minion Pro';
+p, li, td {
+    font-family: 'Minion Pro';
+    font-size: 18px;
 }
 
 h1{

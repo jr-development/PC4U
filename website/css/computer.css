@@ -16,8 +16,9 @@
 }
 
 /* elements */
-p{
+p, li, td {
 	font-family: 'Minion Pro';
+    font-size: 18px;
 }
 
 h1{
@@ -104,6 +105,7 @@ body{
 	width: 80%;
 	float: left;
     margin: 0px;
+    margin-bottom: 30px;
 }
 
 /* begin main-menu */
