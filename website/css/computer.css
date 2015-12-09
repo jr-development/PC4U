@@ -16,7 +16,7 @@
 }
 
 /* elements */
-p, li, td {
+p, li, td, a {
 	font-family: 'Minion Pro';
     font-size: 18px;
 }
@@ -227,6 +227,10 @@ body{
     margin-right: 20px;
     margin-left: 20px;
     margin-bottom: 5px;
+}
+
+.sh_options {
+    text-align: right;
 }
 
 .sh_options a{

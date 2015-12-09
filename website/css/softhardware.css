@@ -16,7 +16,7 @@
 }
 
 /* elements */
-p, li, td {
+p, li, td, a {
     font-family: 'Minion Pro';
     font-size: 18px;
 }
@@ -242,7 +242,7 @@ body{
 }
 
 .sh_options .numberic{
-    width: 83px;
+    width: 68px;
 }
 
 .sh_options .button{

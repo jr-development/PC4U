@@ -16,7 +16,7 @@
 }
 
 /* elements */
-p, li, td {
+p, li, td, a {
     font-family: 'Minion Pro';
     font-size: 18px;
 }
