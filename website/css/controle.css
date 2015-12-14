@@ -104,6 +104,9 @@ body{
 .content{
 	width: 80%;
 	float: left;
+    background-color: #9D9d9d;
+    padding: 12px;
+    margin-top: 11px;  
 }
 
 /* begin main-menu */
@@ -213,7 +216,7 @@ body{
 
 .shoppingcart tr.noborder, .shoppingcart td.noborder {
     border: none;
-    background-color: #e6e6e6 !important;
+    background-color: #9D9d9d !important;
 }
 
 .shoppingcart tr, .shoppingcart td {
@@ -258,19 +261,19 @@ body{
 .form-print {
     width: 35%;
     float: left;
-    margin-top: 50px;
+    margin-top: 42px;
 }
 
 .form-gegevens {  
     width: 30%;
     float: left;
-    margin-top: 50px;
+    margin-top: 42px;
 }
 
 .form-betalen {
     width: 30%;
     float: right;
-    margin-top: 50px;
+    margin-top: 42px;
 }
 button {
     width: 120px;

@@ -105,6 +105,8 @@ body{
 .content{
 	width: 80%;
 	float: left;
+    background-color: #9D9d9d;
+    padding-top: 15px;
 }
 
 /* begin main-menu */
@@ -247,4 +249,10 @@ body{
 
 .sh_options .button{
     width: 100px;
+}
+.header-text{
+    width: 90%;
+    height: 40px;
+    text-align: center;
+    padding-left: 100px;
 }
