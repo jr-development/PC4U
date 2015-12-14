@@ -233,19 +233,95 @@ body{
 
 
 .details-control {
-   border: solid 1px black; 
+    
 }
 
 .details {
-    width: 40%;
-    border: solid 1px black;
+    width: 50%;
+    border-right: solid 1px black;
     height: 250px;
     float: left;
 }
 
 .note {
     width: 40%;
-    border: solid 1px black;
     height: 250px;
     float: right;
+}
+
+.buttons{
+    height: 100px;
+    width: 100%;
+    margin-top: -35px;
+    padding-left: 20px;
+}
+.form-print {
+    width: 35%;
+    float: left;
+    margin-top: 50px;
+}
+
+.form-gegevens {  
+    width: 30%;
+    float: left;
+    margin-top: 50px;
+}
+
+.form-betalen {
+    width: 30%;
+    float: right;
+    margin-top: 50px;
+}
+button {
+    width: 120px;
+    height: 40px;
+    background-color: #FFBA02;
+}
+button:hover{
+    background-color: #FF5400;
+}
+
+ button:active{
+    background-color: #C71610;
+}
+blockquote{
+   background-image: url(../images/note.png);
+   height: 200px;
+   background-size: 100% 100%;
+   padding: 15px;
+   padding-top: 0px;
+}
+
+blockquote p {
+    line-height: 30px;
+    font-size: 23px;
+    margin-top: 4px;
+}
+
+.details p {
+    margin-top: 25px ;
+    margin-left: 10px;   
+}
+
+.details td{
+    margin-right: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+}
+.note {
+    margin-top: -50px;
+
+}
+.note_h3 h3 {
+    z-index: 999;
+    top: 80px;
+    left: 10px;
+    position: relative;
+    display: inline-block;
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    font-size: 35px;
 }
