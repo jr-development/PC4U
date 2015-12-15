@@ -316,10 +316,10 @@ blockquote p {
     margin-top: -50px;
 
 }
-.note_h3 h3 {
+.note_h3 h1 {
     z-index: 999;
     top: 80px;
-    left: 10px;
+    left: 5px;
     position: relative;
     display: inline-block;
     -webkit-transform: rotate(-90deg);
