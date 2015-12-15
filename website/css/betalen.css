@@ -92,7 +92,7 @@ body{
 
 .wrapper{
     margin: 3%;
-    min-width: 1500px;
+    /*min-width: 1500px;*/
 }
 
 .footer td{
