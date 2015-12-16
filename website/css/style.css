@@ -132,6 +132,8 @@ body{
 	border: 1px solid #0e0e0e;
 	float: right;
 	margin-top: 39px;
+    margin-left: -3px;
+    list-style-type: none;
 }
 
 
@@ -144,6 +146,7 @@ body{
 .contact{
 	width: 13%;
 	float: left;
+    margin-bottom: 10px;
 
 }
 
@@ -220,7 +223,7 @@ body{
     top: 15px;
 }
 .ca-main{
-    font-size: 15px;
+    font-size: 10px;
     text-transform: uppercase;
     padding-top: 23px;
     color: #0e0e0e;
